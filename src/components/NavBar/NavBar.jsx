@@ -5,7 +5,7 @@ import './styleNavBar.css';
 const NavBar = () =>{
     return(
         <div className="nav">
-            <h1>Hortus Tienda</h1>
+            <h1>Hortus Tienda <img src="" alt=""/></h1>
             <ul className="navUl">
                 <li><p>Plantas</p></li>
                 <li><p>Macetas</p></li>

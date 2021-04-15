@@ -2,6 +2,7 @@ import './App.css';
 import React from 'react';
 import NavBar from './components/NavBar/NavBar';
 import ItemListContainer from'./components/ItemListContainer/ItemListContainer';
+<link href="/your-path-to-uicons/css/uicons-regular-rounded.css" rel="stylesheet"></link>
 function App() {
 
   return (

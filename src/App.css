@@ -2,7 +2,10 @@
   text-align: center;
 }
 
-
+body{
+  background-color: darkgrey;
+  margin-top: 0%;
+}
 
 
 /*#ItemListContainer{
@@ -12,5 +15,6 @@
 
 .ItemListContainer{
   transform: translate(0%, 500%);
+
 }
 
