@@ -7,11 +7,13 @@ const NavBar = () =>{
         <div className="nav">
             <h1>Hortus Tienda</h1>
             <ul className="navUl">
-                <li><p>List1</p></li>
-                <li><p>List2</p></li>
-                <li><p>List3</p></li>
+                <li><p>Plantas</p></li>
+                <li><p>Macetas</p></li>
+                <li><p>Combos</p></li>
             </ul>
-            <CartWidget id="CartWidget"/>
+            <div className="CartWidget">
+                <CartWidget/>
+            </div>    
         </div>
     )
 }

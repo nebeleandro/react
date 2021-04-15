@@ -4,7 +4,7 @@
     position: fixed;
     width: 100vw;
     height: 10vh;
-    z-index: 99999;
+    
     background-color:aquamarine;
     display: flex;
     flex-direction: row;
@@ -12,9 +12,7 @@
     position: fixed;
     
 }
-h1{
-    transform: translate(-100%, 0%);
-}
+
 .navUl{
 
     display: flex;
@@ -25,8 +23,10 @@ h1{
 }
 
 li{ 
-    margin: 20%;
-    transform: translate(-700%, 0%);
+    margin: 25%;
+    transform: translate(-400%, 0%);
 }
+
+
 
 
